@@ -32,5 +32,5 @@ Executive leader with 20+ years optimizing global transportation networks, manag
 ## 📫 Connect with Me
 
 * 🌐 **Portfolio Website:** [rcholico.github.io](https://rcholico.github.io)
-* 💼 **LinkedIn:** [linkedin.com/in/rcholico](https://www.linkedin.com/in/ramon-cholico/) *(Update link if needed)*
+* 💼 **LinkedIn:** [linkedin.com/in/ramon-cholico](https://www.linkedin.com/in/ramon-cholico/) *(Update link if needed)*
 * 📧 **Email:** `rcholico@hotmail.com`
