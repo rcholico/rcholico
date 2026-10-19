@@ -24,6 +24,7 @@ Executive leader with 20+ years optimizing global transportation networks, manag
 * ⛽ **[Geopolitical Risk & Fuel FSC Sensitivity Model](https://github.com/rcholico/Geopolitical-Risk-Fuel-Sensitivity-Model)** — Financial modeling analyzing Middle East conflict impacts across Parcel, LTL, and Ocean container networks, quantifying $271K+ in fuel surcharge exposure and setting weekly variance rules-of-thumb.
 * 🌍 **[International Multimodal Transportation Analysis](https://github.com/rcholico/International-Freight-Network-Analysis)** — Evaluated All-Boat vs. Intermodal Rail trade-offs across transatlantic trade lanes, achieving up to 21-day lead-time reductions.
 * 📦 **[Parcel Supply Chain Analytics](https://github.com/rcholico/Parcel-SupplyChain-Analytics)** — Python-driven carrier analytics evaluating parcel operational datasets, zone billing structures, dimensional weight cost drivers, and transit SLA performance.
+* 🌐 **[Global Freight Auditor Selection & Requirements Matrix](https://github.com/rcholico/Freight-Auditor-Selection)** — Strategic Evaluation of Global Freight Audit & Payment (FAP) Platforms, Governance & AI Data Privacy.
 
 ---
 
