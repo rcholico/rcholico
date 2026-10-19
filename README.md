@@ -23,7 +23,7 @@ Executive leader with 20+ years optimizing global transportation networks, manag
 * ✈️ **[US Zone Skipping & Air-Bulk Linehaul Optimization](https://github.com/rcholico/US-Zone-Skipping-Air-Bulk-Optimization)** — Designed an air-bulk/intermodal zone-skip injection strategy for 149K+ monthly packages originating in San Diego California, reducing Northeast customer transit times from 13 days down to 4–6 days.
 * ⛽ **[Geopolitical Risk & Fuel FSC Sensitivity Model](https://github.com/rcholico/Geopolitical-Risk-Fuel-Sensitivity-Model)** — Financial modeling analyzing Middle East conflict impacts across Parcel, LTL, and Ocean container networks, quantifying $271K+ in fuel surcharge exposure and setting weekly variance rules-of-thumb.
 * 🌍 **[International Multimodal Transportation Analysis](https://github.com/rcholico/International-Freight-Network-Analysis)** — Evaluated All-Boat vs. Intermodal Rail trade-offs across transatlantic trade lanes, achieving up to 21-day lead-time reductions.
-* 📦 **[UPS Freight & Parcel Logistics Analytics]([https://github.com/rcholico/Parcel-SupplyChain-Analytics](https://github.com/rcholico/Parcel-SupplyChain-Analytics))** — Python-driven carrier analytics evaluating UPS operational datasets, zone billing structures, dimensional weight cost drivers, and transit SLA performance.
+* 📦 **[UPS Freight & Parcel Logistics Analytics]([https://github.com/rcholico/Parcel-SupplyChain-Analytics])** — Python-driven carrier analytics evaluating UPS operational datasets, zone billing structures, dimensional weight cost drivers, and transit SLA performance.
 
 ---
 
