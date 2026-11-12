@@ -2,7 +2,7 @@
 
 <img src="assets/profile-banner.svg" alt="Ramon Cholico — Supply Chain Executive and Applied Data Science" width="100%" />
 
-# Ramon G. Cholico
+# Ramon Cholico
 
 ### Global Supply Chain Executive · Applied Data Science · Engineering Leadership
 
