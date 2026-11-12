@@ -4,8 +4,6 @@
 
 ### Global Supply Chain Executive · Applied Data Science · Engineering Leadership
 
-**Turning complex logistics data into smarter networks, better decisions, and measurable business value.**
-
 [**Explore My Portfolio**](https://rcholico.github.io/) · [**LinkedIn**](https://www.linkedin.com/in/ramon-cholico) · [**Email**](mailto:rcholico@hotmail.com)
 
 </div>
