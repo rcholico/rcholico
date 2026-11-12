@@ -8,7 +8,7 @@
 <circle cx="1080" cy="20" r="200" fill="#dceef8" opacity=".65"/>
 <circle cx="1140" cy="210" r="160" fill="#c6e4ed" opacity=".45"/>
 <path d="M48 61l23-35h20L68 61z" fill="#ff971c"/>
-<text x="107" y="105" fill="#091936" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700">Ramon G. Cholico</text>
+<text x="107" y="105" fill="#091936" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700">Ramon Cholico</text>
 <text x="109" y="153" fill="#155d89" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600">SUPPLY CHAIN LEADERSHIP  +  APPLIED DATA SCIENCE</text>
 <text x="109" y="197" fill="#42546b" font-family="Arial,Helvetica,sans-serif" font-size="21">From complex freight networks to measurable business impact</text>
 <g transform="translate(890 65)">
