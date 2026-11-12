@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+<title id="title">Ramon G. Cholico</title><desc id="desc">Light-themed profile banner with navy typography and orange and blue analytics motifs</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#eaf4fb"/></linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#159fbd"/><stop offset="1" stop-color="#0b527f"/></linearGradient>
+</defs>
+<rect width="1200" height="270" rx="24" fill="url(#bg)"/>
+<circle cx="1080" cy="20" r="200" fill="#dceef8" opacity=".65"/>
+<circle cx="1140" cy="210" r="160" fill="#c6e4ed" opacity=".45"/>
+<path d="M48 61l23-35h20L68 61z" fill="#ff971c"/>
+<text x="107" y="105" fill="#091936" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700">Ramon G. Cholico</text>
+<text x="109" y="153" fill="#155d89" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600">SUPPLY CHAIN LEADERSHIP  +  APPLIED DATA SCIENCE</text>
+<text x="109" y="197" fill="#42546b" font-family="Arial,Helvetica,sans-serif" font-size="21">From complex freight networks to measurable business impact</text>
+<g transform="translate(890 65)">
+<rect x="0" y="102" width="38" height="63" rx="8" fill="#b8d9e9"/>
+<rect x="58" y="73" width="38" height="92" rx="8" fill="#83c5dd"/>
+<rect x="116" y="43" width="38" height="122" rx="8" fill="url(#blue)"/>
+<rect x="174" y="10" width="38" height="155" rx="8" fill="#ff9d2e"/>
+<path d="M14 85l62-37 55 5 67-64" stroke="#0c688f" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="14" cy="85" r="7" fill="#0c688f"/><circle cx="76" cy="48" r="7" fill="#0c688f"/><circle cx="131" cy="53" r="7" fill="#0c688f"/><circle cx="198" cy="-11" r="7" fill="#ff9d2e"/>
+</g>
+</svg>
